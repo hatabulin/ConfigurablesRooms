@@ -12,6 +12,7 @@ Implemented in stm32 part:
 - on/off two output mosfet power port (12v) via http post/get requests.
 - configuration web page (use dns / use static ip, network mask ip, ip address, dns ip address  change.
 
+
 Implemented in esp8266 part:
 - configuration web page for termo control with ds18b20 sensors and change state (on/off) on relay and power semistors keys.
 - hysteresis function ...
