@@ -18,4 +18,4 @@ Implemented in esp8266 part:
 - hysteresis function ...
 - more under construction
 
-first version free on EasyEDA: 
+first version free on EasyEDA: https://easyeda.com/hatab/conf-room
