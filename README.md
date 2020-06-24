@@ -1,15 +1,15 @@
 # ConfigurablesRooms
 HAL STM32 CubeMX, RTOS
 
-Configurables rooms project for remote control via ethernet and wifi networks.
+Configurables rooms project for remote control via ethernet and wireless networks.
 
 Used modules:
-enc28j60 - ethernet module
-esp8266 - wireless module
-this modules connected via usart rs232 interface.
+- enc28j60 - ethernet module
+- esp8266 - wireless module
+This two mcu connected via usart rs232 interface for sending protocol messages.
 
 Implemented in stm32 part:
-- on/off two output mosfet power port (12v) via http post/get requests.
+- on/off two output mosfet ports (12v) via http post/get requests.
 - configuration web page (use dns / use static ip, network mask ip, ip address, dns ip address  change.
 
 
@@ -18,6 +18,4 @@ Implemented in esp8266 part:
 - hysteresis function ...
 - more under construction
 
-
-
-
+first version free on EasyEDA: 
